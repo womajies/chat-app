@@ -27,6 +27,7 @@ export default {
   display: grid;
   grid-template-columns: 1fr;
   height: 100vh;
+  height: -webkit-fill-available;
   max-height: 773px;
 
   @include on-breakpoint('md') {
