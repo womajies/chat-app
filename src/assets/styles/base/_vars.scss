@@ -1,0 +1,65 @@
+// Colors
+$white-color: #ffffff;
+$black-color: #000000;
+$accent-color: #7d7781;
+$accent-color-two: #a2a4d1;
+$accent-color-three: #3e4070;
+$accent-color-four: #ff9839;
+$bg-color: #120c17;
+$btn-disabled-color: #444444;
+$btn-disabled-color-two: #222222;
+$btn-disabled-border-color: #888888;
+$btn-border-color: #ffae47;
+
+// Font
+$default-font-size: 16px;
+
+// Transition
+$transition-duration: 0.3s;
+$transition-timing-function: ease;
+
+// Border
+$border-width: 1px;
+$border-width-2x: 2px;
+$border-radius: 4px;
+$border-radius-btn: 15px;
+$border-radius-input: 20px;
+$border-radius-block: 20px;
+
+// Breakpoints
+// min-width
+$desktopM: 2560px;
+$desktopS: 1920px;
+$desktop: 1680px;
+$laptopS: 1440px;
+$laptop: 1280px;
+$tabletS: 1024px;
+$tablet: 768px;
+$mobileS: 480px;
+$mobile: 375px;
+
+// max-width
+$desktopS__max: 2559px;
+$desktop__max: 1919px;
+$laptopS__max: 1679px;
+$laptop__max: 1439px;
+$tabletS__max: 1279px;
+$tablet__max: 1023px;
+$mobileS__max: 767px;
+$mobile__max: 479px;
+
+//Breakpoints + px
+$sm: 480;
+$md: 768;
+$lg: 1024;
+$xl: 1280;
+$xxl: 1680;
+
+//Standard breakpoints
+$breakpoints: (
+  'sm': 480px,
+  'md': 768px,
+  'lg': 1024px,
+  'xl': 1280px,
+  'xxl': 1680px,
+);

@@ -1,5 +1,9 @@
 # chat-app
 
+## Shamil Magomedov
+### Preview:
+[vipdeveloper.ru/chat-app](https://vipdeveloper.ru/chat-app)
+
 ## Project setup
 ```
 npm install
@@ -19,6 +23,3 @@ npm run build
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
