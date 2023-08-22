@@ -103,7 +103,7 @@ export default {
 
   &--outbound {
     margin-left: auto;
-    border-radius: 30px 30px 30px 2px;
+    border-radius: 30px 30px 2px 30px;
     background-color: $accent-color-three;
     color: $accent-color-two;
   }

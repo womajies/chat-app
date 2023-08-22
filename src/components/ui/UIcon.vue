@@ -78,7 +78,7 @@ export default {
     },
 
     href() {
-      return `/img/icon/${this.computedSection}.svg#${this.name}`
+      return process.env.NODE_ENV === 'production' ? `/chat-app/img/icon/${this.computedSection}.svg#${this.name}` : `/img/icon/${this.computedSection}.svg#${this.name}`
     },
   },
 }
